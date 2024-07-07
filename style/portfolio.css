@@ -145,3 +145,28 @@ main section{
     border-radius: 5px;
     box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06);
 }
+/* resume styles */
+.resume-container{
+display: flex;
+gap: 25px;
+}
+.experience-description{
+    color: #757575;
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+.resume-column{
+    font-size: 25px;
+    color: #474747;
+}
+.experience-subtitle{
+    color: #757575;
+    font-size: 18px;
+}
+.experience-title{
+    color: #474747;
+    font-size: 25px;
+}
+hr{
+    border: 1px solid #D1D1D1;
+}
