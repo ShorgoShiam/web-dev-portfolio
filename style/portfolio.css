@@ -170,3 +170,29 @@ gap: 25px;
 hr{
     border: 1px solid #D1D1D1;
 }
+/* footer styles */
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+footer input[type="text"], footer input[type="email"]{
+    height: 50px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 80%;
+    padding: 10px 20px;
+    border: none;
+    margin-bottom: 24px;
+}
+footer textarea{
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    width: 80%;
+}
