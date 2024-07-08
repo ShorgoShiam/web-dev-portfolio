@@ -61,15 +61,6 @@ nav ul{
     font-size: 20px;
     border: none;
 }
-.contact-button{
-    background-color: #FFF8F3;
-    border: solid #FD6E0A;
-    color: #FD6E0A;
-    width: 160px;
-    font-size: 20px;
-    height: 64px;
-    margin-left: 20px;
-}
 /* banner styles */
 .banner-greetings{
     font-size: 45px;
